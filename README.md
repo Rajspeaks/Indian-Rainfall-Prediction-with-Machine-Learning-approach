@@ -1,4 +1,4 @@
-# Indian Rainfall Prediction
+# Machine Learning approach to Indian Rainfall Prediction
 
 This Project has been done under the mentorship of Linux World Informatics Private Limited.
 
