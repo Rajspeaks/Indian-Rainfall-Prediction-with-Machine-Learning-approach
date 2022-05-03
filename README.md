@@ -21,8 +21,9 @@ In this project, it is tried to analyze the Long Term rainfall using the collect
 
 ## Technologies Used:
 
--	Python - Python language is used for writing the server script, which takes the data from the given dataset then analyze the expecting output or prediction at approximate level.
--	Machine Learning – Machine learning is used to analyze the data.
+-	Python
+-	Jupyter Notebook
+-	Above mentioned datasets.
 
 ## Conclusion: 
 
